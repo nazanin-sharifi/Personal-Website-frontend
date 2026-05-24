@@ -41,8 +41,14 @@ p {
     display: inline-block;
     font-size: 15px;
     color: white;
-    background-image: linear-gradient(to right, #8491FF, #62BBFC);
+    background-image: linear-gradient(to right, #8491FF, #62BBFC, #8491FF);
+    background-size: 400px;
+    background-position: left;
+    transition: background-position .4s ease-in;
+}
 
+.button:hover {
+    background-position: right;
 }
 
 /* START -------------------- Header --------------- styles */
