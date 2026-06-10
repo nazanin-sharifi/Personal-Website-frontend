@@ -1,58 +1,41 @@
-# PERSONAL WEBSITE 🧑‍💻
+# Personal Portfolio Website
+
+A clean and modern personal portfolio website clone. Built with a focus on UI/UX details, interactive hover effects, and clean front-end architecture.
 
 
 ### طراحی فرانت-اند وبسایت شخصی:
+
+یک شبیه‌سازی تمیز و مدرن از وب‌سایت شخصی و پورتفولیو (Philip Gilbert). این پروژه با تمرکز بر جزئیات UI/UX، افکت‌های هاور تعاملی و کدنویسی استاندارد به عنوان نمونه کار فرانت‌اند توسعه یافته است.
+
 <br><br>
 ![personal](https://github.com/mikaela4518/personal.project/assets/143528080/340358cd-1a6b-41fc-b6a2-9f3308d838bc)
 <br>
 
-#### This page was created for sample work. <br>
-##### Introduction of personal sites 🧑‍💻:
+---
 
-<p>Personal websites are made for the purpose of introducing people; <br>
-  For example, some singers, actors, and many artists have a dedicated website where they introduce themselves, their art, their portfolios, and their awards and credits!<br>
-  But these are not only for artists and famous people... <br>
-As soon as you are the owner or manager of a business or you provide services, it is enough to need a personal website to present yourself and gain trust <br>
+<br>
 
-</p>
+## 🎯 چرا هر شخص به وب‌سایت پرسونال نیاز دارد؟
 
-#### Why should we have a personal site?
+> وب‌سایت‌های شخصی با هدف معرفی افراد، هنرمندان، متخصصین و صاحبان کسب‌وکار ساخته می‌شوند تا نمونه کارها، تجربیات و اعتبارات خود را به شکل حرفه‌ای پرزنت کنند. داشتن یک وب‌سایت شخصی، کلید ایجاد اعتماد در مخاطب و متمایز شدن در بازار رقابتی است.
 
-- The website shows you and your business professionally
-- Increases your credibility in the society
-- Increase your visibility
-- Competitive advantage over competitors or the possibility of competing with elders
-- Creating a sense of trust in customers and turning them into loyal customers
-- And...
+<br><br>
 
-##### Positive points in project implementation:
-- Careful implementation of ui-ux design details in the front end of the project
-- Made with html-5, css
-- Commenting
-- Attention to clean code
+## 🚀 ویژگی‌ها و نکات مثبت پروژه | Features & Highlights
 
+* دقت در جزئیات طراحی (UI/UX Focused): پیاده‌سازی دقیق المان‌های بصری، توازن فضاهای خالی و تایپوگرافی نسخه اصلی.
+* افکت‌های تعاملی (Interactive Hover Effects): اعمال افکت‌های حرکتی و هاور (Hover) اختصاصی روی دکمه‌ها برای تجربه کاربری بهتر.
+* کدنویسی تمیز و ساختاریافته (Clean Code): رعایت اصول معنایی در HTML5 و بازنویسی (Refactor) استایل‌های CSS جهت بهینه‌سازی کدهای پروژه.
+* کامنت‌گذاری (Detailed Commenting): مستندسازی بخش‌های مختلف سند جهت خوانایی کامل کدها.
+<br><br>
 
-#### این صفحه جهت نمونه کار ایجاد شده است.<br>
-##### معرفی سایت های پرسونال 🧑‍💻:
-<p>سایت های پرسونال به هدف معرفی اشخاص ساخته میشوند؛ <br> 
-  به عنوان مثال بعضی از خواننده ها ، بازیگرها و بسیاری از هنرمندان وبسایتی اختصاصی دارند که در آن به معرفی خود ، هنرشان ، نمونه کارها و جوایز و اعتبارات خود میپردازند!<br>
-  اما خب اینها فقط مختص به هنرمندان و افراد مشهور نیست ... <br>
-همینکه شما صاحب یا مدیر کسب و کاری باشید و یا خدماتی رو ارائه میدین کافیه تا برای پرزنت کردن خود و جلب اعتماد به یک وبسایت پرسونال نیاز داشته باشید  <br>
-  
-</p>
+## 🛠️ تکنولوژی‌های استفاده شده | Tech Stack
 
-#### چرا باید سایت پرسونال داشته باشیم ؟
+* HTML5: برای ساختاردهی استاندارد و معنایی بخش‌های وب‌سایت.
+* CSS3: برای استایل‌دهی، اعمال گرادینت‌ها، افکت‌های هاور و مدیریت چیدمان.
+<br><br><br>
 
-- وبسایت شما و کسب و کارتان را حرفه ای نشان میدهد 
-- باعث افزایش اعتبار شما در جامعه میشود 
-- افزایش دیده شدن شما
-- مزیت رقابتی نسبت به رقبا یا امکان رقابت با بزرگان 
-- ایجاد حس اعتماد در مشتری و تبدیل شدن انها به مشتری وفادار
-- و...
+--- 
 
-
-##### نکات مـثبت در اجرای پروژه:
-- دقت به اجرای جزئیات طراحی ui-ux در خروجی فرانت پروژه 
-- ساخته شده با html-5 , css
-- کامنت گذاری
-- دقت به clean cod
+این پروژه صرفاً به عنوان یک نمونه کار فرانت‌اند توسعه یافته است.
+This project is for portfolio purposes only.
